@@ -20,6 +20,7 @@ Here are some ideas to get you started
 -->
 
 ## 🌐 Socials:
+
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anuchute07@gmail.com) 
 
 # 💻 Tech Stack:
