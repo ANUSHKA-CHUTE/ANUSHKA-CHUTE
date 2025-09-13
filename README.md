@@ -1,4 +1,5 @@
 ABOUT ME 👋
+
 🚧Right now, I’m building web apps using React,Tailwind CSS, and Framer Motion. I’m also exploring the backend side of things to grow as a full-stack developer.
 
 🤝I'm interested in teaming up on 'frontend' or 'full-stack' projects—especially those with a focus on 'creative UI/UX' or solving 'real-world problems'.
