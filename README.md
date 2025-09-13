@@ -1,11 +1,21 @@
-## Hi there 👋
+## ABOUT ME 👋
+
+🚧Right now, I’m building web apps using React,Tailwind CSS, and Framer Motion. I’m also exploring the backend side of things to grow as a full-stack developer.
+---
+🤝I'm interested in teaming up on 'frontend' or 'full-stack' projects—especially those with a focus on 'creative UI/UX' or solving 'real-world problems'.
+---
+❓I’m working on improving my 'Data structures and algorithms' skills and learning to write cleaner, more efficient code**. Always open to tips or resources!
+---
+📘 Learning Goals
+
+1] Leveling up my 'React' knowledge (hooks, state management, performance)
+2]Getting comfortable with 'Backend tools' like Node.js and databases
+3]Solving problems on 'LeetCode' to sharpen my coding logic
+---
+
 
 <!--
 **ANUSHKA-CHUTE/ANUSHKA-CHUTE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started
-
-
 
 
 
