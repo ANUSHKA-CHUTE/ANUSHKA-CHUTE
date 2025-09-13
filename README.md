@@ -1,4 +1,4 @@
-💫 About Me:
+## 💫 About Me:
 
 🚧Right now, I’m building web apps using React,Tailwind CSS, and Framer Motion. I’m also exploring the backend side of things to grow as a full-stack developer.
 
